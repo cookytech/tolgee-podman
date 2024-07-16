@@ -1,0 +1,7 @@
+tolgee:
+  authentication:
+    enabled: true
+    initial-password: rishu
+    initial-username: raveesh
+
+
